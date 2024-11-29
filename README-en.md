@@ -87,4 +87,4 @@ Issues and improvements are welcome!
 
 ## License
 
-MIT License
+[MIT License](LICENSE)
